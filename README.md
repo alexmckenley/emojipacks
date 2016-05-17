@@ -13,3 +13,6 @@ URLs:
 | League of Legends Items | <https://raw.githubusercontent.com/alexmckenley/emojipacks/master/leagueitems.yaml>     |
 
 [lambtron/emojipacks]: https://github.com/lambtron/emojipacks
+
+## Examples
+![League of Legends Items](images/leagueitems.png)
