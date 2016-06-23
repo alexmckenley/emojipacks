@@ -1,6 +1,6 @@
 # More Emoji packs for Slack
 
-This project works best with [lambtron/emojipacks][]. No need to clone, just use
+This project works best with [lambtron/emojipacks](https://github.com/lambtron/emojipacks). No need to clone, just use
 the raw URLs for YAML files.
 
 ## Usage
@@ -15,8 +15,8 @@ URLs:
 
 
 Thanks to:
-[dannyfritz/web-tech-and-dev-emoji](https://github.com/dannyfritz/web-tech-and-dev-emoji)
-[lambtron/emojipacks]: https://github.com/lambtron/emojipacks
+- [dannyfritz/web-tech-and-dev-emoji](https://github.com/dannyfritz/web-tech-and-dev-emoji)
+- [lambtron/emojipacks](https://github.com/lambtron/emojipacks)
 
 ## Examples
 ![League of Legends Items](images/leagueitems.png)
