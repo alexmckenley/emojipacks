@@ -1,0 +1,246 @@
+title: web-tech
+emojis:
+  - name: android
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/android.png
+  - name: android_studio
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/android_studio.png
+  - name: angularjs
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/angularjs.png
+  - name: apache
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/apache.png
+  - name: arduino
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/arduino.png
+  - name: atom
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/atom.png
+  - name: aws
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/aws.png
+  - name: bitbucket
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/bitbucket.png
+  - name: bootstrap
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/bootstrap.png
+  - name: c_lang
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/c_lang.png
+  - name: c_sharp
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/c_sharp.png
+  - name: chai
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/chai.png
+  - name: chrome
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/chrome.png
+  - name: clojure.gif
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/clojure.gif.png
+  - name: couchdb
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/couchdb.png
+  - name: cpp
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/cpp.png
+  - name: css
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/css.png
+  - name: d3
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/d3.png
+  - name: d_lang
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/d_lang.png
+  - name: dart_lang
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/dart_lang.png
+  - name: database
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/database.png
+  - name: docker
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/docker.png
+  - name: eclipse
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/eclipse.png
+  - name: edge.jpg
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/edge.jpg.png
+  - name: elixer
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/elixer.png
+  - name: emacs
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/emacs.png
+  - name: ember
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/ember.png
+  - name: erlang
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/erlang.png
+  - name: eslint
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/eslint.png
+  - name: express
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/express.png
+  - name: f_sharp
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/f_sharp.png
+  - name: facebook
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/facebook.png
+  - name: firebase
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/firebase.png
+  - name: firefox
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/firefox.png
+  - name: flask
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/flask.png
+  - name: git
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/git.png
+  - name: github
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/github.png
+  - name: go_lang
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/go_lang.png
+  - name: google
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/google.png
+  - name: google_maps
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/google_maps.png
+  - name: gruntjs
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/gruntjs.png
+  - name: gulpjs
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/gulpjs.png
+  - name: handlebars
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/handlebars.png
+  - name: haskell
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/haskell.png
+  - name: heroku
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/heroku.png
+  - name: html
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/html.png
+  - name: instagram.gif
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/instagram.gif.png
+  - name: intellij
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/intellij.png
+  - name: internet_explorer
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/internet_explorer.png
+  - name: ios
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/ios.png
+  - name: jasmine
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/jasmine.png
+  - name: java
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/java.png
+  - name: javascript.jpg
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/javascript.jpg.png
+  - name: jenkins
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/jenkins.png
+  - name: jquery.gif
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/jquery.gif.png
+  - name: json
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/json.png
+  - name: julia
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/julia.png
+  - name: knexjs
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/knexjs.png
+  - name: lambda
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/lambda.png
+  - name: less
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/less.png
+  - name: linkedin
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/linkedin.png
+  - name: linux
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/linux.png
+  - name: lodash
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/lodash.png
+  - name: lua
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/lua.png
+  - name: mathematica
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/mathematica.png
+  - name: matlab
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/matlab.png
+  - name: mdn
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/mdn.png
+  - name: meteor
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/meteor.png
+  - name: mocha
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/mocha.png
+  - name: mongodb
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/mongodb.png
+  - name: mysql
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/mysql.png
+  - name: netbeans
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/netbeans.png
+  - name: nginx
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/nginx.png
+  - name: nodejs
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/nodejs.png
+  - name: notepadplusplus.jpg
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/notepadplusplus.jpg.png
+  - name: npm
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/npm.png
+  - name: octocat
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/octocat.png
+  - name: opengl
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/opengl.png
+  - name: opera
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/opera.png
+  - name: osx
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/osx.png
+  - name: passportjs
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/passportjs.png
+  - name: perl.jpg
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/perl.jpg.png
+  - name: php
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/php.png
+  - name: pivotal_tracker
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/pivotal_tracker.png
+  - name: polymer
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/polymer.png
+  - name: postgresql
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/postgresql.png
+  - name: py3
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/py3.png
+  - name: python
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/python.png
+  - name: r_lang
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/r_lang.png
+  - name: rails
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/rails.png
+  - name: raspberrypi
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/raspberrypi.png
+  - name: react
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/react.png
+  - name: reddit
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/reddit.png
+  - name: ruby
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/ruby.png
+  - name: rubyrocks
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/rubyrocks.png
+  - name: rust
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/rust.png
+  - name: safari
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/safari.png
+  - name: sas
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/sas.png
+  - name: sass
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/sass.png
+  - name: scala
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/scala.png
+  - name: scheme
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/scheme.png
+  - name: slack
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/slack.png
+  - name: socketio
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/socketio.png
+  - name: steam
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/steam.png
+  - name: sublime_text
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/sublime_text.png
+  - name: swift
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/swift.png
+  - name: travis_ci
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/travis_ci.png
+  - name: twitch
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/twitch.png
+  - name: twitter
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/twitter.png
+  - name: unity3d
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/unity3d.png
+  - name: v8
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/v8.png
+  - name: vim
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/vim.png
+  - name: virtualbox
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/virtualbox.png
+  - name: visual_studio
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/visual_studio.png
+  - name: vue
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/vue.png
+  - name: w3c
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/w3c.png
+  - name: web_storm
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/web_storm.png
+  - name: webgl
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/webgl.png
+  - name: webpack
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/webpack.png
+  - name: webrtc
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/webrtc.png
+  - name: windows
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/windows.png
+  - name: xcode
+    src: https://raw.githubusercontent.com/dannyfritz/web-tech-and-dev-emoji/master/images/xcode.png
