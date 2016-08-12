@@ -1,0 +1,172 @@
+title: Logos
+emojis:
+  - name: amazon
+    src: http://emojis.slackmojis.com/emojis/images/1450319445/42/amazon.png?1450319445
+  - name: android
+    src: http://emojis.slackmojis.com/emojis/images/1450319443/30/android.jpg?1450319443
+  - name: appleinc
+    src: http://emojis.slackmojis.com/emojis/images/1450319442/24/appleinc.png?1450319442
+  - name: asana
+    src: http://emojis.slackmojis.com/emojis/images/1467305681/623/asana.png?1467305681
+  - name: asana
+    src: http://emojis.slackmojis.com/emojis/images/1450464744/191/asana.png?1450464744
+  - name: askfm
+    src: http://emojis.slackmojis.com/emojis/images/1460283908/347/askfm.png?1460283908
+  - name: aws
+    src: http://emojis.slackmojis.com/emojis/images/1467057057/599/aws.png?1467057057
+  - name: aws_eb
+    src: http://emojis.slackmojis.com/emojis/images/1467057067/600/aws_eb.png?1467057067
+  - name: basecamp
+    src: http://emojis.slackmojis.com/emojis/images/1450464763/192/basecamp.png?1450464763
+  - name: chrome
+    src: http://emojis.slackmojis.com/emojis/images/1450319453/119/chrome.png?1450319453
+  - name: clojure
+    src: http://emojis.slackmojis.com/emojis/images/1461993145/378/clojure.gif?1461993145
+  - name: crowdfire
+    src: http://emojis.slackmojis.com/emojis/images/1452776893/262/crowdfire.png?1452776893
+  - name: datadog
+    src: http://emojis.slackmojis.com/emojis/images/1465574290/509/datadog.png?1465574290
+  - name: digital_ocean
+    src: http://emojis.slackmojis.com/emojis/images/1467306197/627/digital_ocean.png?1467306197
+  - name: docker
+    src: http://emojis.slackmojis.com/emojis/images/1462400762/397/docker.png?1462400762
+  - name: dropbox
+    src: http://emojis.slackmojis.com/emojis/images/1450319444/37/dropbox.png?1450319444
+  - name: droplr
+    src: http://emojis.slackmojis.com/emojis/images/1450464653/187/droplr.png?1450464653
+  - name: emacs
+    src: http://emojis.slackmojis.com/emojis/images/1467056968/594/emacs.png?1467056968
+  - name: ether
+    src: http://emojis.slackmojis.com/emojis/images/1457252455/311/ether.png?1457252455
+  - name: evernote
+    src: http://emojis.slackmojis.com/emojis/images/1467305929/625/evernote.png?1467305929
+  - name: evernote_app
+    src: http://emojis.slackmojis.com/emojis/images/1467307123/639/evernote_app.png?1467307123
+  - name: facebook
+    src: http://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png?1450319443
+  - name: firefox
+    src: http://emojis.slackmojis.com/emojis/images/1450319453/118/firefox.png?1450319453
+  - name: flask
+    src: http://emojis.slackmojis.com/emojis/images/1458106637/314/flask.png?1458106637
+  - name: gap
+    src: http://emojis.slackmojis.com/emojis/images/1450805181/256/gap.png?1450805181
+  - name: git
+    src: http://emojis.slackmojis.com/emojis/images/1460043575/341/git.png?1460043575
+  - name: github
+    src: http://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151
+  - name: gmail
+    src: http://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444
+  - name: golang
+    src: http://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png?1454546974
+  - name: google
+    src: http://emojis.slackmojis.com/emojis/images/1450464805/195/google.png?1450464805
+  - name: gopro
+    src: http://emojis.slackmojis.com/emojis/images/1467066274/602/gopro.png?1467066274
+  - name: harvest_app
+    src: http://emojis.slackmojis.com/emojis/images/1467305559/622/harvest_app.png?1467305559
+  - name: heroku
+    src: http://emojis.slackmojis.com/emojis/images/1465929657/511/heroku.png?1465929657
+  - name: ibm
+    src: http://emojis.slackmojis.com/emojis/images/1460043535/340/ibm.png?1460043535
+  - name: illustrator
+    src: http://emojis.slackmojis.com/emojis/images/1450464717/189/illustrator.png?1450464717
+  - name: imzy
+    src: http://emojis.slackmojis.com/emojis/images/1467305029/617/imzy.png?1467305029
+  - name: indesign
+    src: http://emojis.slackmojis.com/emojis/images/1450464691/188/indesign.png?1450464691
+  - name: instacart
+    src: http://emojis.slackmojis.com/emojis/images/1453827454/268/instacart.png?1453827454
+  - name: instagram
+    src: http://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728
+  - name: instagram
+    src: http://emojis.slackmojis.com/emojis/images/1450319445/40/instagram.png?1450319445
+  - name: internet_explorer
+    src: http://emojis.slackmojis.com/emojis/images/1450319454/117/internet_explorer.png?1450319454
+  - name: java
+    src: http://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280
+  - name: javascript
+    src: http://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296
+  - name: jenkins_ci
+    src: http://emojis.slackmojis.com/emojis/images/1467306670/631/jenkins_ci.png?1467306670
+  - name: mailchimp
+    src: http://emojis.slackmojis.com/emojis/images/1450448442/161/mailchimp.png?1450448442
+  - name: mcdonalds
+    src: http://emojis.slackmojis.com/emojis/images/1464195835/495/mcdonalds.png?1464195835
+  - name: metabase
+    src: http://emojis.slackmojis.com/emojis/images/1467056894/592/metabase.png?1467056894
+  - name: netflix
+    src: http://emojis.slackmojis.com/emojis/images/1450319459/146/netflix.png?1450319459
+  - name: new_relic
+    src: http://emojis.slackmojis.com/emojis/images/1467306844/634/new_relic.png?1467306844
+  - name: opera
+    src: http://emojis.slackmojis.com/emojis/images/1465155056/503/opera.png?1465155056
+  - name: pagerduty
+    src: http://emojis.slackmojis.com/emojis/images/1467306358/628/pagerduty.png?1467306358
+  - name: paypal
+    src: http://emojis.slackmojis.com/emojis/images/1467306584/630/paypal.png?1467306584
+  - name: photoshop
+    src: http://emojis.slackmojis.com/emojis/images/1450464730/190/photoshop.png?1450464730
+  - name: php
+    src: http://emojis.slackmojis.com/emojis/images/1450319454/130/php.png?1450319454
+  - name: pinterest
+    src: http://emojis.slackmojis.com/emojis/images/1450319444/36/pinterest.png?1450319444
+  - name: postgresql
+    src: http://emojis.slackmojis.com/emojis/images/1450470347/198/postgresql.png?1450470347
+  - name: product-hunt
+    src: http://emojis.slackmojis.com/emojis/images/1450319450/121/product-hunt.png?1450319450
+  - name: python
+    src: http://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444
+  - name: raspberry_pi
+    src: http://emojis.slackmojis.com/emojis/images/1450738434/245/raspberry_pi.png?1450738434
+  - name: reddit
+    src: http://emojis.slackmojis.com/emojis/images/1467306474/629/reddit.png?1467306474
+  - name: redux
+    src: http://emojis.slackmojis.com/emojis/images/1462128189/390/redux.png?1462128189
+  - name: ruby
+    src: http://emojis.slackmojis.com/emojis/images/1450319445/31/ruby.png?1450319445
+  - name: ruby_on_rails
+    src: http://emojis.slackmojis.com/emojis/images/1467305311/619/ruby_on_rails.png?1467305311
+  - name: safari
+    src: http://emojis.slackmojis.com/emojis/images/1450369354/148/safari.png?1450369354
+  - name: skype
+    src: http://emojis.slackmojis.com/emojis/images/1450448377/159/skype.png?1450448377
+  - name: snapchat
+    src: http://emojis.slackmojis.com/emojis/images/1467939767/647/snapchat.jpg?1467939767
+  - name: soundcloud
+    src: http://emojis.slackmojis.com/emojis/images/1450319449/120/soundcloud.png?1450319449
+  - name: spotify
+    src: http://emojis.slackmojis.com/emojis/images/1450319454/41/spotify.png?1450319454
+  - name: squareup
+    src: http://emojis.slackmojis.com/emojis/images/1467306978/636/squareup.png?1467306978
+  - name: stackoverflow
+    src: http://emojis.slackmojis.com/emojis/images/1462799966/405/stackoverflow.png?1462799966
+  - name: starbucks
+    src: http://emojis.slackmojis.com/emojis/images/1450319454/66/starbucks.png?1450319454
+  - name: stripe
+    src: http://emojis.slackmojis.com/emojis/images/1467307084/638/stripe.png?1467307084
+  - name: swarm_app
+    src: http://emojis.slackmojis.com/emojis/images/1467305145/618/swarm_app.png?1467305145
+  - name: tesla
+    src: http://emojis.slackmojis.com/emojis/images/1459365617/335/tesla.jpg?1459365617
+  - name: tinder
+    src: http://emojis.slackmojis.com/emojis/images/1454267655/281/tinder.png?1454267655
+  - name: todoist
+    src: http://emojis.slackmojis.com/emojis/images/1450480108/214/todoist.png?1450480108
+  - name: toggl
+    src: http://emojis.slackmojis.com/emojis/images/1467305427/620/toggl.png?1467305427
+  - name: travisci
+    src: http://emojis.slackmojis.com/emojis/images/1462891199/406/travisci.png?1462891199
+  - name: trello
+    src: http://emojis.slackmojis.com/emojis/images/1450448407/160/trello.png?1450448407
+  - name: twitter
+    src: http://emojis.slackmojis.com/emojis/images/1450319443/35/twitter.png?1450319443
+  - name: twitter
+    src: http://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056
+  - name: windows
+    src: http://emojis.slackmojis.com/emojis/images/1452690821/261/windows.png?1452690821
+  - name: wordpress
+    src: http://emojis.slackmojis.com/emojis/images/1467305795/624/wordpress.png?1467305795
+  - name: yo
+    src: http://emojis.slackmojis.com/emojis/images/1450319445/18/yo.png?1450319445
+  - name: zeplin
+    src: http://emojis.slackmojis.com/emojis/images/1464897233/502/zeplin.png?1464897233

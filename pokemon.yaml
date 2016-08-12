@@ -1,0 +1,38 @@
+title: Pokemon
+emojis:
+  - name: bulbasaur
+    src: http://emojis.slackmojis.com/emojis/images/1450735430/234/bulbasaur.png?1450735430
+  - name: charizard
+    src: http://emojis.slackmojis.com/emojis/images/1450735493/236/charizard.png?1450735493
+  - name: charmander
+    src: http://emojis.slackmojis.com/emojis/images/1450735852/239/charmander.png?1450735852
+  - name: ditto
+    src: http://emojis.slackmojis.com/emojis/images/1450735463/235/ditto.png?1450735463
+  - name: eevee
+    src: http://emojis.slackmojis.com/emojis/images/1468518265/661/eevee.png?1468518265
+  - name: instinct
+    src: http://emojis.slackmojis.com/emojis/images/1469201940/672/instinct.gif?1469201940
+  - name: ivysaur
+    src: http://emojis.slackmojis.com/emojis/images/1450736574/244/ivysaur.png?1450736574
+  - name: mew
+    src: http://emojis.slackmojis.com/emojis/images/1450736274/243/mew.png?1450736274
+  - name: mewtwo
+    src: http://emojis.slackmojis.com/emojis/images/1450736076/242/mewtwo.png?1450736076
+  - name: mystic
+    src: http://emojis.slackmojis.com/emojis/images/1469201975/673/mystic.gif?1469201975
+  - name: pikachu
+    src: http://emojis.slackmojis.com/emojis/images/1450735712/238/pikachu.png?1450735712
+  - name: pikachu
+    src: http://emojis.slackmojis.com/emojis/images/1450458394/182/pikachu.gif?1450458394
+  - name: pokeball
+    src: http://emojis.slackmojis.com/emojis/images/1450464069/186/pokeball.png?1450464069
+  - name: psyduck
+    src: http://emojis.slackmojis.com/emojis/images/1450736025/241/psyduck.png?1450736025
+  - name: slowpoke
+    src: http://emojis.slackmojis.com/emojis/images/1450735566/237/slowpoke.jpg?1450735566
+  - name: snorlax
+    src: http://emojis.slackmojis.com/emojis/images/1450735389/233/snorlax.png?1450735389
+  - name: squirtle
+    src: http://emojis.slackmojis.com/emojis/images/1450735892/240/squirtle.png?1450735892
+  - name: valor
+    src: http://emojis.slackmojis.com/emojis/images/1469202036/674/valor.gif?1469202036
