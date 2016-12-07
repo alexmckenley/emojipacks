@@ -11,6 +11,7 @@ URLs:
 | Pack                    | URL                                                                                     |
 | ----------------------- | --------------------------------------------------------------------------------------- |
 | League of Legends Items | <https://raw.githubusercontent.com/alexmckenley/emojipacks/master/leagueitems.yaml>     |
+| League of Legends Champions | <https://raw.githubusercontent.com/alexmckenley/emojipacks/master/leaguechampions.yaml>     |
 | Web Tech and Dev Emojis | <https://raw.githubusercontent.com/alexmckenley/emojipacks/master/web-tech.yaml>     |
 | Facebook Reactions | <https://raw.githubusercontent.com/alexmckenley/emojipacks/master/facebook_reactions.yaml>     |
 | Logos | <https://raw.githubusercontent.com/alexmckenley/emojipacks/master/logos.yaml>     |
